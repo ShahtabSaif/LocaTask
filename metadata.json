@@ -1,0 +1,6 @@
+{
+  "name": "LocaTask",
+  "description": "An offline-first location-based task reminder app that alerts you precisely when you reach your target locations using geofencing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
