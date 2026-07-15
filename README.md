@@ -11,6 +11,8 @@ Never forget a task when arriving at or leaving a specific place. LocaTask uses 
 ![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Offline First](https://img.shields.io/badge/Offline-First-success)
 
+### [⬇️ Download Latest APK](https://github.com/ShahtabSaif/LocaTask/releases/latest)
+
 </div>
 
 ---
